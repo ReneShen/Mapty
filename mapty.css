@@ -49,12 +49,6 @@ a:visited {
   flex-direction: column;
 }
 
-.logo {
-  height: 5.2rem;
-  align-self: center;
-  margin-bottom: 4rem;
-}
-
 .workouts {
   list-style: none;
   height: 77vh;
